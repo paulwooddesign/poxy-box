@@ -4,6 +4,11 @@ poxy-box (NodeJS) (Testing)
 Vagrant Box based on Scotch Box (scotch.io)
 
 
+URL
+========
+http://192.168.33.10/
+
+
 SSH Database commands
 ========
 
