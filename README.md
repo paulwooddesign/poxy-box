@@ -1,4 +1,4 @@
-poxy-box
+poxy-box (NodeJS) (Testing)
 ========
 
 Vagrant Box based on Scotch Box (scotch.io)
