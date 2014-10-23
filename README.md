@@ -1,7 +1,14 @@
 poxy-box (NodeJS) (Testing)
 ========
 
-Vagrant Box based on Scotch Box (scotch.io)
+Whats in the box
+========
+
+Scotch Box (scotch.io)
+https://github.com/scotch-io/scotch-box
+
+Hackathon Starter
+https://github.com/sahat/hackathon-starter
 
 
 URL
